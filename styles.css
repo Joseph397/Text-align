@@ -1,0 +1,62 @@
+@import url("https://fonts.googleleapis.com/css?family=Roboto:400,700i|Yesterday");
+
+/* 
+text-align
+text-indent
+*/
+
+/* body{
+    font-family: "Roboto", sans-serif;
+    text-align: right;
+}
+.main {
+    font-family: "Yesterday", cursive;
+    text-align: left;
+}
+
+.subheading {
+text-align:center;
+}
+
+.one{
+    text-indent: 10rem;
+}
+
+.two{
+text-align: left;
+} */
+/* ========================================================================== */
+
+/* 5:57:20 */
+/* 
+line-height
+letter-spacing
+word-spacing
+text-transform
+text-decoration;
+ */
+ a{
+     font-size: 40px;
+     text-decoration: none;
+ }
+ body{
+    text-transform: uppercase;
+ }
+
+h1{
+    text-transform: lowercase;
+    text-decoration: line-through;
+}
+ .one {
+     line-height: .5em;
+ }
+
+ .two {
+     letter-spacing: 5px;
+     text-decoration: overline;
+ }
+
+ .three{
+     word-spacing: 20px;
+     text-decoration: underline;
+ }
